@@ -1,13 +1,20 @@
                            EX NO 4 : Multivariate Analysis
    AIM:
+   
        To Perform Multivariate Analysis
+       
   Algorithm:
+  
   1.Read the given data 
+  
   2.Get information from the data 
+  
   3.Perform the Multivariate Analysis
+  
   4.Save the clean data to file
 
 Program:
+
 1) reading the file
 
 import pandas as pd
